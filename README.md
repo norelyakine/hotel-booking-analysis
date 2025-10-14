@@ -41,7 +41,7 @@ This project analyzes hotel booking data to uncover trends in **cancellations**,
 ## Key Insights
 - Portugal has the highest number of cancellations globally, highlighting it as a key hotspot for booking volatility.
 - City hotels experience nearly three times more cancellations than resort hotels, indicating higher volatility in urban booking behavior.
-- Bookings surged in 2016 across both hotel types, marking it as the peak year for travel demand during the 2015–2017 period.
+- Bookings surged in 2016 across both hotel types, marking it as the peak year for travel demand during the 2015-2017 period.
 
 ---
 
@@ -54,4 +54,3 @@ This project analyzes hotel booking data to uncover trends in **cancellations**,
 
 ## Author
 Aya Nor Elyakine
-Data Analyst | R & Tableau | Portfolio Projects
