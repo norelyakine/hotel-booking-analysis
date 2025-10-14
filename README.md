@@ -13,23 +13,10 @@ This project analyzes hotel booking data to uncover trends in **cancellations**,
 ---
 
 ## Tools & Technologies
-- **R** (tidyverse, lubridate, ggplot2) — data cleaning and analysis  
-- **Tableau** — interactive visualizations and dashboard  
-- **Git & GitHub** — version control  
-
----
-
-## Project Structure
-hotel-booking-analysis/
-│
-├── data/ # raw dataset (.csv)
-├── cleaned_data/ # cleaned dataset for Tableau
-├── scripts/ # R scripts
-│ └── clean_and_analyze.R
-├── visuals/ # ggplot charts
-├── .gitignore
-└── hotel-booking-analysis.Rproj
-
+- **R** (tidyverse, lubridate, ggplot2): data cleaning and analysis  
+- **Tableau**: interactive visualizations and dashboard  
+- **Git & GitHub**: version control
+- 
 ---
 
 ## Key Steps
