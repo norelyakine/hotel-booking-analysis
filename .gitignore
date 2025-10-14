@@ -3,7 +3,7 @@
 .RData
 .Ruserdata
 
-data/
-cleaned_data/
-scripts/
-visuals/
+!data/
+!cleaned_data/
+!scripts/
+!visuals/
